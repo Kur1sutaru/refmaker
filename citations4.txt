@@ -1,0 +1,58 @@
+10.1093/nar/gkn813
+Kim, D.-S., Cho, C.-Y., Huh, J.-W., Kim, H.-S., & Cho, H.-G. (2009). EVOG: a database for evolutionary analysis of overlapping genes. Nucleic Acids Research, 37(Database), D698–D702. doi:10.1093/nar/gkn813
+10.1093/nar/gki045
+Elnitski, L. (2004). Improvements to GALA and dbERGE II: databases featuring genomic sequence alignment, annotation and experimental results. Nucleic Acids Research, 33(Database issue), D466–D470. doi:10.1093/nar/gki045
+10.1093/bib/bbw056
+Che, D., Wang, Y., Bai, W., Li, L., Liu, G., Zhang, L., … Liao, M. (2016). Dynamic and modular gene regulatory networks drive the development of gametogenesis. Briefings in Bioinformatics, bbw056. doi:10.1093/bib/bbw056
+10.1186/1471-2105-6-305
+Yusuf, D., Lim, J., & Wasserman, W. (2005). BMC Bioinformatics, 6(1), 305. doi:10.1186/1471-2105-6-305
+10.1371/journal.pone.0021832
+Abubucker, S., Martin, J., Taylor, C. M., & Mitreva, M. (2011). HelmCoP: An Online Resource for Helminth Functional Genomics and Drug and Vaccine Targets Prioritization. PLoS ONE, 6(7), e21832. doi:10.1371/journal.pone.0021832
+10.1093/nar/30.1.149
+Chien, S. (2002). Homophila: human disease gene cognates in Drosophila. Nucleic Acids Research, 30(1), 149–151. doi:10.1093/nar/30.1.149
+10.1093/bioinformatics/btm455
+Kin, T., & Ono, Y. (2007). Idiographica: a general-purpose web application to build idiograms on-demand for human, mouse and rat. Bioinformatics, 23(21), 2945–2946. doi:10.1093/bioinformatics/btm455
+10.1093/bioinformatics/bts289
+Fujimori, S., Hirai, N., Masuoka, K., Oshikubo, T., Yamashita, T., Washio, T., … Miyamoto-Sato, E. (2012). IRView: a database and viewer for protein interacting regions. Bioinformatics, 28(14), 1949–1950. doi:10.1093/bioinformatics/bts289
+10.1093/nar/gkj122
+Cotter, D. (2006). LMPD: LIPID MAPS proteome database. Nucleic Acids Research, 34(90001), D507–D510. doi:10.1093/nar/gkj122
+10.1093/nar/gkw999
+Tassy, O. (2016). New data and features for advanced data mining in Manteia. Nucleic Acids Research, 45(D1), D707–D711. doi:10.1093/nar/gkw999
+10.1093/bioinformatics/bts139
+Hospital, A., Andrio, P., Fenollosa, C., Cicin-Sain, D., Orozco, M., & Gelpí, J. L. (2012). MDWeb and MDMoby: an integrated web-based platform for molecular dynamics simulations. Bioinformatics, 28(9), 1278–1279. doi:10.1093/bioinformatics/bts139
+10.1093/bioinformatics/bts156
+Sartor, M. A., Ade, A., Wright, Z., States, D., Omenn, G. S., Athey, B., & Karnovsky, A. (2012). Metab2MeSH: annotating compounds with medical subject headings. Bioinformatics, 28(10), 1408–1410. doi:10.1093/bioinformatics/bts156
+10.1101/gr.095976.109
+10.1007/978-1-62703-721-1_10
+Belcastro, V., & di Bernardo, D. (2013). Reverse Engineering Transcriptional Gene Networks. Methods in Molecular Biology, 179–196. doi:10.1007/978-1-62703-721-1_10
+10.1093/nar/gku1110
+Peng, X., Thierry-Mieg, J., Thierry-Mieg, D., Nishida, A., Pipes, L., Bozinoski, M., … Mason, C. E. (2014). Tissue-specific transcriptome sequencing analysis expands the non-human primate reference transcriptome resource (NHPRTR). Nucleic Acids Research, 43(D1), D737–D742. doi:10.1093/nar/gku1110
+10.1093/nar/gkn617
+Dinger, M. E., Pang, K. C., Mercer, T. R., Crowe, M. L., Grimmond, S. M., & Mattick, J. S. (2008). NRED: a database of long noncoding RNA expression. Nucleic Acids Research, 37(suppl_1), D122–D126. doi:10.1093/nar/gkn617
+https://www.jisc.ac.uk/
+10.1093/nar/gkq472
+Sardana, D., Vasa, S., Vepachedu, N., Chen, J., Gudivada, R. C., Aronow, B. J., & Jegga, A. G. (2010). PhenoHM: human–mouse comparative phenome–genome server. Nucleic Acids Research, 38(suppl_2), W165–W174. doi:10.1093/nar/gkq472
+10.1186/1471-2164-14-918
+Lin, J., Kreisberg, R., Kallio, A., Dudley, A. M., Nykter, M., Shmulevich, I., … Autio, R. (2013). POMO - Plotting Omics analysis results for Multiple Organisms. BMC Genomics, 14(1), 918. doi:10.1186/1471-2164-14-918
+10.1016/s0968-0004(00)01606-6
+Bernstein, H. J. (2000). Recent changes to RasMol, recombining the variants. Trends in Biochemical Sciences, 25(9), 453–455. doi:10.1016/s0968-0004(00)01606-6
+10.1186/1477-7827-8-96
+Yang, L., Zhang, X., Chen, J., Wang, Q., Wang, L., Jiang, Y., & Pan, Y. (2010). ReCGiP, a database of reproduction candidate genes in pigs based on bibliomics. Reproductive Biology and Endocrinology, 8(1), 96. doi:10.1186/1477-7827-8-96
+10.1186/1471-2105-9-378
+Leyritz, J., Schicklin, S., Blachon, S., Keime, C., Robardet, C., Boulicaut, J.-F., … Gandrillon, O. (2008). SQUAT: A web tool to mine human, murine and avian SAGE data. BMC Bioinformatics, 9(1), 378. doi:10.1186/1471-2105-9-378
+10.1093/nar/gkx921
+Pinto, J. P., Machado, R. S. R., Magno, R., Oliveira, D. V., Machado, S., Andrade, R. P., … Futschik, M. E. (2017). StemMapper: a curated gene expression database for stem cell lineage analysis. Nucleic Acids Research, 46(D1), D788–D793. doi:10.1093/nar/gkx921
+10.1093/bioinformatics/btq109
+Xiao, S. J., Zhang, C., Zou, Q., & Ji, Z. L. (2010). TiSGeD: a database for tissue-specific genes. Bioinformatics, 26(9), 1273–1275. doi:10.1093/bioinformatics/btq109
+10.1093/database/bay003
+Palasca, O., Santos, A., Stolte, C., Gorodkin, J., & Jensen, L. J. (2018). TISSUES 2.0: an integrative web resource on mammalian tissue expression. Database, 2018. doi:10.1093/database/bay003
+10.1093/nar/gkq418
+Kaimal, V., Bardes, E. E., Tabar, S. C., Jegga, A. G., & Aronow, B. J. (2010). ToppCluster: a multiple gene list feature analyzer for comparative enrichment clustering and network-based dissection of biological systems. Nucleic Acids Research, 38(Web Server), W96–W102. doi:10.1093/nar/gkq418
+10.1186/1471-2105-13-19
+Lepoivre, C., Bergon, A., Lopez, F., Perumal, N. B., Nguyen, C., Imbert, J., & Puthier, D. (2012). TranscriptomeBrowser 3.0: introducing a new compendium of molecular interactions and a new visualization tool for the study of gene regulatory networks. BMC Bioinformatics, 13(1), 19. doi:10.1186/1471-2105-13-19
+10.1093/nar/gku1138
+Kumar, P., Mudunuri, S. B., Anaya, J., & Dutta, A. (2014). tRFdb: a database for transfer RNA fragments. Nucleic Acids Research, 43(D1), D141–D145. doi:10.1093/nar/gku1138
+10.1093/bib/6.2.189
+Loveland, J. (2005). VEGA, the genome browser with a difference. Briefings in Bioinformatics, 6(2), 189–193. doi:10.1093/bib/6.2.189
+10.1093/nar/gkl822
+Visel, A., Minovitsky, S., Dubchak, I., & Pennacchio, L. A. (2007). VISTA Enhancer Browser--a database of tissue-specific human enhancers. Nucleic Acids Research, 35(Database), D88–D92. doi:10.1093/nar/gkl822

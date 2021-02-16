@@ -1,0 +1,110 @@
+10.1093/nar/gku1123
+Cai, H., Gupta, S., Rath, P., Ai, N., & Baudis, M. (2014). arrayMap 2014: an updated cancer genome resource. Nucleic Acids Research, 43(D1), D825–D830. doi:10.1093/nar/gku1123
+10.1081/cnv-120016428
+Hess, J. L. (2003). The Cancer Genome Anatomy Project: Power Tools for Cancer Biologists. Cancer Investigation, 21(2), 325–326. doi:10.1081/cnv-120016428
+10.1038/oncsis.2015.40
+Meng, X., Wang, J., Yuan, C., Li, X., Zhou, Y., Hofestädt, R., & Chen, M. (2015). CancerNet: a database for decoding multilevel molecular interactions across diverse cancer types. Oncogenesis, 4(12), e177–e177. doi:10.1038/oncsis.2015.40
+10.1093/nar/gkm802
+Scheinin, I., Myllykangas, S., Borze, I., Bohling, T., Knuutila, S., & Saharinen, J. (2007). CanGEM: mining gene copy number changes in cancer. Nucleic Acids Research, 36(Database), D830–D835. doi:10.1093/nar/gkm802
+10.1021/acs.jproteome.6b00505
+Zhang, M., Wang, B., Xu, J., Wang, X., Xie, L., Zhang, B., … Li, J. (2016). CanProVar 2.0: An Updated Database of Human Cancer Proteome Variation. Journal of Proteome Research, 16(2), 421–432. doi:10.1021/acs.jproteome.6b00505
+10.1093/nar/gkm280
+Cases, I., Pisano, D. G., Andres, E., Carro, A., Fernandez, J. M., Gomez-Lopez, G., … Rojas, A. M. (2007). CARGO: a web portal to integrate customized biological information. Nucleic Acids Research, 35(Web Server), W16–W20. doi:10.1093/nar/gkm280
+10.1093/nar/gkq997
+Cao, Q., Zhou, M., Wang, X., Meyer, C. A., Zhang, Y., Chen, Z., … Liu, X. S. (2010). CaSNP: a database for interrogating copy number alterations of cancer genome from SNP array data. Nucleic Acids Research, 39(suppl_1), D968–D974. doi:10.1093/nar/gkq997
+10.1038/nature11003
+Barretina, J., Caponigro, G., Stransky, N., Venkatesan, K., Margolin, A. A., Kim, S., … Sonkin, D. (2012). The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity. Nature, 483(7391), 603–607. doi:10.1038/nature11003
+10.1038/srep12035
+Pradeepkiran, J. A., Sainath, S. B., Kramthi Kumar, K., Balasubramanyam, L., Vidya Prabhakar, K., & Bhaskar, M. (2015). CGMD: An integrated database of cancer genes and markers. Scientific Reports, 5(1). doi:10.1038/srep12035
+10.1093/nar/gkw1127
+Gorohovski, A., Tagore, S., Palande, V., Malka, A., Raviv-Shay, D., & Frenkel-Morgenstern, M. (2016). ChiTaRS-3.1—the enhanced chimeric transcripts and RNA-seq database matched with protein–protein interactions. Nucleic Acids Research, 45(D1), D790–D795. doi:10.1093/nar/gkw1127
+10.1371/journal.pone.0060980
+Gu, F., Doderer, M. S., Huang, Y.-W., Roa, J. C., Goodfellow, P. J., Kizer, E. L., … Chen, Y. (2013). CMS: A Web-Based System for Visualization and Analysis of Genome-Wide Methylation Data of Human Cancers. PLoS ONE, 8(4), e60980. doi:10.1371/journal.pone.0060980
+10.1093/nar/gky1015
+Tate, J. G., Bamford, S., Jubb, H. C., Sondka, Z., Beare, D. M., Bindal, N., … Forbes, S. A. (2018). COSMIC: the Catalogue Of Somatic Mutations In Cancer. Nucleic Acids Research, 47(D1), D941–D947. doi:10.1093/nar/gky1015
+10.1080/02763860802198895
+Fitzpatrick, R. B. (2008). CPDB: Carcinogenic Potency Database. Medical Reference Services Quarterly, 27(3), 303–311. doi:10.1080/02763860802198895
+10.1089/cmb.2010.0038
+Kuo, H.-C., Lin, P.-Y., Chung, T.-C., Chao, C.-M., Lai, L.-C., Tsai, M.-H., & Chuang, E. Y. (2011). DBCAT: Database of CpG Islands and Analytical Tools for Identifying Comprehensive Methylation Profiles in Cancer Cells. Journal of Computational Biology, 18(8), 1013–1017. doi:10.1089/cmb.2010.0038
+10.1093/nar/gkw1079
+Yang, Z., Wu, L., Wang, A., Tang, W., Zhao, Y., Zhao, H., & Teschendorff, A. E. (2016). dbDEMC 2.0: updated database of differentially expressed miRNAs in human cancers. Nucleic Acids Research, 45(D1), D812–D818. doi:10.1093/nar/gkw1079
+10.1093/database/bay015
+Yang, Q., Zhang, Y., Cui, H., Chen, L., Zhao, Y., Lin, Y., … Xie, L. (2018). dbDEPC 3.0: the database of differentially expressed proteins in human cancer with multi-level annotation and drug indication. Database, 2018. doi:10.1093/database/bay015
+10.1371/journal.pone.0142591
+Wang, C., Zhang, J., Cai, M., Zhu, Z., Gu, W., Yu, Y., & Zhang, X. (2015). DBGC: A Database of Human Gastric Cancer. PLOS ONE, 10(11), e0142591. doi:10.1371/journal.pone.0142591
+10.1093/nar/gkw1123
+Xiong, Y., Wei, Y., Gu, Y., Zhang, S., Lyu, J., Zhang, B., … Zhang, Y. (2016). DiseaseMeth version 2.0: a major expansion and update of the human disease methylation database. Nucleic Acids Research, 45(D1), D888–D895. doi:10.1093/nar/gkw1123
+10.1093/nar/gkv1314
+Chung, I.-F., Chen, C.-Y., Su, S.-C., Li, C.-Y., Wu, K.-J., Wang, H.-W., & Cheng, W.-C. (2015). DriverDBv2: a database for human cancer driver gene research. Nucleic Acids Research, 44(D1), D975–D979. doi:10.1093/nar/gkv1314
+10.1016/j.ijbiomac.2005.12.024
+Dash, R., Moharana, S. S., Reddy, A. S., Sastry, G. M., & Sastry, G. N. (2006). DSTHO: Database of siRNAs targeted at human oncogenes: A statistical analysis. International Journal of Biological Macromolecules, 38(1), 65–69. doi:10.1016/j.ijbiomac.2005.12.024
+10.1186/1471-2105-12-46
+Liu, F., White, J. A., Antonescu, C., Gusenleitner, D., & Quackenbush, J. (2011). GCOD - GeneChip Oncology Database. BMC Bioinformatics, 12(1), 46. doi:10.1186/1471-2105-12-46
+10.1093/database/bay041
+Jeong, I., Yu, N., Jang, I., Jun, Y., Kim, M.-S., Choi, J., … Lee, S. (2018). GEMiCCL: mining genotype and expression data of cancer cell lines with elaborate visualization. Database, 2018. doi:10.1093/database/bay041
+10.1093/nar/gkm381
+Zhang, Y., Luoh, S.-M., Hon, L. S., Baertsch, R., Wood, W. I., & Zhang, Z. (2007). GeneHub-GEPIS: digital expression profiling for normal and cancer tissues based on an integrated gene database. Nucleic Acids Research, 35(suppl_2), W152–W158. doi:10.1093/nar/gkm381
+10.1093/bioinformatics/btt094
+Peng, B., Chen, H.-S., Mechanic, L. E., Racine, B., Clarke, J., Clarke, L., … Feuer, E. J. (2013). Genetic Simulation Resources: a website for the registration and discovery of genetic data simulators. Bioinformatics, 29(8), 1101–1102. doi:10.1093/bioinformatics/btt094
+10.1093/nar/gkx1008
+Zheng, G., Ma, Y., Zou, Y., Yin, A., Li, W., & Dong, D. (2017). HCMDB: the human cancer metastasis database. Nucleic Acids Research, 46(D1), D950–D955. doi:10.1093/nar/gkx1008
+10.1074/mcp.M700550-MCP200
+Huang, Y. J., Hang, D., Lu, L. J., Tong, L., Gerstein, M. B., & Montelione, G. T. (2008). Targeting the Human Cancer Pathway Protein Interaction Network by Structural Genomics. Molecular & Cellular Proteomics, 7(10), 2048–2060. doi:10.1074/mcp.m700550-mcp200
+10.1093/nar/gkp945
+Wang, L., Xiong, Y., Sun, Y., Fang, Z., Li, L., Ji, H., & Shi, T. (2009). HLungDB: an integrated database of human lung cancer research. Nucleic Acids Research, 38(suppl_1), D665–D669. doi:10.1093/nar/gkp945
+10.1016/j.oraloncology.2011.09.014
+Mitra, S., Das, S., Das, S., Ghosal, S., & Chakrabarti, J. (2012). HNOCDB: A comprehensive database of genes and miRNAs relevant to head and neck and oral cancer. Oral Oncology, 48(2), 117–119. doi:10.1016/j.oraloncology.2011.09.014
+10.1186/S12864-016-2852-6
+Yang, I. S., Son, H., Kim, S., & Kim, S. (2016). ISOexpresso: a web-based platform for isoform-level expression analysis in human cancer. BMC Genomics, 17(1). doi:10.1186/s12864-016-2852-6
+10.1101/323964
+Li, A., Lu, X., Natoli, T., Bittker, J., Sipes, N., Subramanian, A., … Monti, S. (2018). The Carcinogenome Project: In-vitro Gene Expression Profiling of Chemical Perturbations to Predict Long-Term Carcinogenicity. doi:10.1101/323964
+10.1186/1471-2105-12-471
+Fang, Y.-C., Lai, P.-T., Dai, H.-J., & Hsu, W.-L. (2011). MeInfoText 2.0: gene methylation and cancer relation extraction from biomedical literature. BMC Bioinformatics, 12(1), 471. doi:10.1186/1471-2105-12-471
+10.1093/nar/gkv1337
+Shaul, Y. D., Yuan, B., Thiru, P., Nutter-Upham, A., McCallum, S., Lanzkron, C., … Sabatini, D. M. (2015). MERAV: a tool for comparing gene expression across human tissues and cell types. Nucleic Acids Research, 44(D1), D560–D566. doi:10.1093/nar/gkv1337
+10.1093/nar/gku1151
+Huang, W.-Y., Hsu, S.-D., Huang, H.-Y., Sun, Y.-M., Chou, C.-H., Weng, S.-L., & Huang, H.-D. (2014). MethHC: a database of DNA methylation and gene expression in human cancer. Nucleic Acids Research, 43(D1), D856–D861. doi:10.1093/nar/gku1151
+10.1093/database/bav097
+Zhang, D., Zhu, R., Zhang, H., Zheng, C.-H., & Xia, J. (2015). MGDB: a comprehensive database of genes involved in melanoma. Database, 2015, bav097. doi:10.1093/database/bav097
+10.1186/s13104-018-3160-9
+Ahmed, M., Nguyen, H., Lai, T., & Kim, D. R. (2018). miRCancerdb: a database for correlation analysis between microRNA and gene expression in cancer. BMC Research Notes, 11(1). doi:10.1186/s13104-018-3160-9
+10.1038/ng.3192
+Iyer, M. K., Niknafs, Y. S., Malik, R., Singhal, U., Sahu, A., Hosono, Y., … Chinnaiyan, A. M. (2015). The landscape of long noncoding RNAs in the human transcriptome. Nature Genetics, 47(3), 199–208. doi:10.1038/ng.3192
+10.1038/srep15478
+Zhao, M., Li, Z., & Qu, H. (2015). An evidence-based knowledgebase of metastasis suppressors to identify key pathways relevant to cancer metastasis. Scientific Reports, 5(1). doi:10.1038/srep15478
+10.1093/nar/gkx400
+Li, M. J., Yao, H., Huang, D., Liu, H., Liu, Z., Xu, H., … Wang, J. (2017). mTCTScan: a comprehensive platform for annotation and prioritization of mutations affecting drug sensitivity in cancers. Nucleic Acids Research, 45(W1), W215–W221. doi:10.1093/nar/gkx400
+10.1158/0008-5472.CAN-17-0489
+Holbeck, S. L., Camalier, R., Crowell, J. A., Govindharajulu, J. P., Hollingshead, M., Anderson, L. W., … Doroshow, J. H. (2017). The National Cancer Institute ALMANAC: A Comprehensive Screening Resource for the Detection of Anticancer Drug Pairs with Enhanced Therapeutic Activity. Cancer Research, 77(13), 3564–3576. doi:10.1158/0008-5472.can-17-0489
+10.1093/nar/gkw1062
+Gaudet, P., Michel, P.-A., Zahn-Zabal, M., Britan, A., Cusin, I., Domagalski, M., … Bairoch, A. (2016). The neXtProt knowledgebase on human proteins: 2017 update. Nucleic Acids Research, 45(D1), D177–D182. doi:10.1093/nar/gkw1062
+10.1093/nar/gkl845
+Su, W.-H., Chao, C.-C., Yeh, S.-H., Chen, D.-S., Chen, P.-J., & Jou, Y.-S. (2007). OncoDB.HCC: an integrated oncogenomic database of hepatocellular carcinoma revealed aberrant cancer target genes and loci. Nucleic Acids Research, 35(Database), D727–D731. doi:10.1093/nar/gkl845
+10.1186/1471-2105-15-15
+Khurana, R., Verma, V., Rawoof, A., Tiwari, S., Nair, R. A., Mahidhara, G., … Kumar, L. (2014). OncomiRdbB: a comprehensive database of microRNAs and their targets in breast cancer. BMC Bioinformatics, 15(1), 15. doi:10.1186/1471-2105-15-15
+10.1002/humu.22771
+Ramos, A. H., Lichtenstein, L., Gupta, M., Lawrence, M. S., Pugh, T. J., Saksena, G., … Getz, G. (2015). Oncotator: Cancer Variant Annotation Tool. Human Mutation, 36(4), E2423–E2429. doi:10.1002/humu.22771
+10.12688/f1000research.15168.1
+Gupta, R., Cayenne, S., Dyavaiah, M., Srinivas, P., Otohinoyi, D., Talukdar, D., … Anand, N. (2018). Oncoyeasti: a web-based application to translate data obtained from Saccharomyces cerevisiae high-throughput drug screens into cancer therapeutics. F1000Research, 7, 757. doi:10.12688/f1000research.15168.1
+10.1038/srep11435
+Zhao, M., Ma, L., Liu, Y., & Qu, H. (2015). Pedican: an online gene resource for pediatric cancers with literature evidence. Scientific Reports, 5(1). doi:10.1038/srep11435
+10.1371/journal.pone.0064289
+Shi, J., Hu, J., Zhou, Q., Du, Y., & Jiang, C. (2013). PEpiD: A Prostate Epigenetic Database in Mammals. PLoS ONE, 8(5), e64289. doi:10.1371/journal.pone.0064289
+10.1093/nar/gkt1108
+Cai, H., Kumar, N., Ai, N., Gupta, S., Rath, P., & Baudis, M. (2013). Progenetix: 12 years of oncogenomic data curation. Nucleic Acids Research, 42(D1), D1055–D1062. doi:10.1093/nar/gkt1108
+10.1038/labinvest.2010.53
+Sarver, A. L., Phalak, R., Thayanithy, V., & Subramanian, S. (2010). S-MED: Sarcoma microRNA Expression Database. Laboratory Investigation, 90(5), 753–761. doi:10.1038/labinvest.2010.53
+10.1093/nar/gkp839
+Woerner, S. M., Yuan, Y. P., Benner, A., Korff, S., von Knebel Doeberitz, M., & Bork, P. (2009). SelTarbase, a database of human mononucleotide-microsatellite mutations and their potential impact to tumorigenesis and immunology. Nucleic Acids Research, 38(suppl_1), D682–D689. doi:10.1093/nar/gkp839
+10.1007/s00262-017-1978-y
+Olsen, L. R., Tongchusak, S., Lin, H., Reinherz, E. L., Brusic, V., & Zhang, G. L. (2017). TANTIGEN: a comprehensive database of tumor T cell antigens. Cancer Immunology, Immunotherapy, 66(6), 731–735. doi:10.1007/s00262-017-1978-y
+10.1007/978-1-4939-3578-9_6
+Wang, Z., Jensen, M. A., & Zenklusen, J. C. (2016). A Practical Guide to The Cancer Genome Atlas (TCGA). Statistical Genomics, 111–141. doi:10.1007/978-1-4939-3578-9_6
+10.1101/373472
+Gielis, S., Moris, P., Bittremieux, W., De Neuter, N., Ogunjimi, B., Laukens, K., & Meysman, P. (2018). TCRex: detection of enriched T cell epitope specificity in full T cell receptor sequence repertoires. doi:10.1101/373472
+10.1186/1471-2164-8-33
+Novo, F. J., de Mendíbil, I. O., & Vizmanos, J. L. (2007). TICdb: a collection of gene-mapped translocation breakpoints in cancer. BMC Genomics, 8(1). doi:10.1186/1471-2164-8-33
+10.1186/2043-9113-3-7
+Dong, L., Luo, M., Wang, F., Zhang, J., Li, T., & Yu, J. (2013). TUMIR: an experimentally supported database of microRNA deregulation in various cancers. Journal of Clinical Bioinformatics, 3(1), 7. doi:10.1186/2043-9113-3-7
+10.1002/humu.20269
+Hamroun, D., Kato, S., Ishioka, C., Claustres, M., Béroud, C., & Soussi, T. (2006). The UMD TP53 database and website: update and revisions. Human Mutation, 27(1), 14–20. doi:10.1002/humu.20269

@@ -1,0 +1,232 @@
+10.1039/C5MB00681C
+Li, S., Lu, J., Li, J., Chen, X., Yao, X., & Xi, L. (2016). HydPred: a novel method for the identification of protein hydroxylation sites that reveals new insights into human inherited disease. Molecular BioSystems, 12(2), 490–498. doi:10.1039/c5mb00681c
+10.1093/nar/gkn730
+Romano, P., Manniello, A., Aresu, O., Armento, M., Cesaro, M., & Parodi, B. (2009). Cell Line Data Base: structure and recent improvements towards molecular authentication of human cell lines. Nucleic Acids Research, 37(Database), D925–D932. doi:10.1093/nar/gkn730
+10.1002/AJPA.23856
+Rissech, C., Winburn, A. P., San‐Millán, M., Sastre, J., & Rocha, J. (2019). The acetabulum as an adult age marker and the new IDADE2 (the IDADE2 web page). American Journal of Physical Anthropology. doi:10.1002/ajpa.23856
+10.1093/nar/gkw829
+Clarke, L., Fairley, S., Zheng-Bradley, X., Streeter, I., Perry, E., Lowy, E., … Flicek, P. (2016). The international Genome sample resource (IGSR): A worldwide collection of genome variation incorporating the 1000 Genomes Project data. Nucleic Acids Research, 45(D1), D854–D859. doi:10.1093/nar/gkw829
+10.1039/c1mb05420a
+Chou, K.-C., Wu, Z.-C., & Xiao, X. (2012). iLoc-Hum: using the accumulation-label scale to predict subcellular locations of human proteins with both single and multiple sites. Mol. BioSyst., 8(2), 629–641. doi:10.1039/c1mb05420a
+10.1093/NAR/GKZ450
+Kalayci, S., Selvan, M. E., Ramos, I., Cotsapas, C., Harris, E., Kim, E.-Y., … Gümüş, Z. H. (2019). ImmuneRegulation: a web-based tool for identifying human immune regulatory elements. Nucleic Acids Research, 47(W1), W142–W150. doi:10.1093/nar/gkz450
+10.1093/nar/gki039
+Kersey, P. (2004). Integr8 and Genome Reviews: integrated views of complete genomes and proteomes. Nucleic Acids Research, 33(Database issue), D297–D302. doi:10.1093/nar/gki039
+10.1038/nbt.2942
+Li, J., Jia, H., Cai, X., Zhong, H., Feng, Q., … Wang, J. (2014). An integrated catalog of reference genes in the human gut microbiome. Nature Biotechnology, 32(8), 834–841. doi:10.1038/nbt.2942
+10.1038/jhg.2016.23
+Shibata, A., Okuno, T., Rahman, M. A., Azuma, Y., Takeda, J., Masuda, A., … Ohno, K. (2016). IntSplice: prediction of the splicing consequences of intronic single-nucleotide variations in the human genome. Journal of Human Genetics, 61(7), 633–640. doi:10.1038/jhg.2016.23
+10.1093/nar/gkt1122
+Martínez-Fundichely, A., Casillas, S., Egea, R., Ràmia, M., Barbadilla, A., Pantano, L., … Cáceres, M. (2013). InvFEST, a database integrating information of polymorphic inversions in the human genome. Nucleic Acids Research, 42(D1), D1027–D1032. doi:10.1093/nar/gkt1122
+10.1371/journal.pone.0103020
+Kountouris, P., Lederer, C. W., Fanis, P., Feleki, X., Old, J., & Kleanthous, M. (2014). IthaGenes: An Interactive Database for Haemoglobin Variations and Epidemiology. PLoS ONE, 9(7), e103020. doi:10.1371/journal.pone.0103020
+10.1093/bioinformatics/btr540
+Glusman, G., Caballero, J., Mauldin, D. E., Hood, L., & Roach, J. C. (2011). Kaviar: an accessible system for testing SNV novelty. Bioinformatics, 27(22), 3216–3217. doi:10.1093/bioinformatics/btr540
+10.1093/bioinformatics/btu325
+Park, C., Yu, N., Choi, I., Kim, W., & Lee, S. (2014). lncRNAtor: a comprehensive resource for functional investigation of long non-coding RNAs. Bioinformatics, 30(17), 2480–2485. doi:10.1093/bioinformatics/btu325
+10.1093/database/baw157
+Blanco-Míguez, A., Gutiérrez-Jácome, A., Fdez-Riverola, F., Lourenço, A., & Sánchez, B. (2017). MAHMI database: a comprehensive MetaHit-based resource for the study of the mechanism of action of the human microbiota. Database, 2017, baw157. doi:10.1093/database/baw157
+10.1093/nar/gkz562
+Narwade, N., Patel, S., Alam, A., Chattopadhyay, S., Mittal, S., & Kulkarni, A. (2019). Mapping of scaffold/matrix attachment regions in human genome: a data mining exercise. Nucleic Acids Research, 47(14), 7247–7261. doi:10.1093/nar/gkz562
+10.1093/bioinformatics/bts139
+Hospital, A., Andrio, P., Fenollosa, C., Cicin-Sain, D., Orozco, M., & Gelpí, J. L. (2012). MDWeb and MDMoby: an integrated web-based platform for molecular dynamics simulations. Bioinformatics, 28(9), 1278–1279. doi:10.1093/bioinformatics/bts139
+10.1093/nar/gkp335
+Bailey, T. L., Boden, M., Buske, F. A., Frith, M., Grant, C. E., Clementi, L., … Noble, W. S. (2009). MEME SUITE: tools for motif discovery and searching. Nucleic Acids Research, 37(Web Server), W202–W208. doi:10.1093/nar/gkp335
+10.1371/journal.pcbi.1005520
+G. C. C. L. Cardenas, R., D. Linhares, N., L. Ferreira, R., & Pena, S. D. J. (2017). Mendel,MD: A user-friendly open-source web tool for analyzing WES and WGS in the diagnosis of patients with Mendelian disorders. PLOS Computational Biology, 13(6), e1005520. doi:10.1371/journal.pcbi.1005520
+10.1093/bioinformatics/btv382
+Nayfach, S., Fischbach, M. A., & Pollard, K. S. (2015). MetaQuery: a web server for rapid annotation and quantitative analysis of specific genes in the human gut microbiome. Bioinformatics, 31(20), 3368–3370. doi:10.1093/bioinformatics/btv382
+10.1093/nar/gkt387
+Pers, T. H., Dworzyński, P., Thomas, C. E., Lage, K., & Brunak, S. (2013). MetaRanker 2.0: a web server for prioritization of genetic variation data. Nucleic Acids Research, 41(W1), W104–W108. doi:10.1093/nar/gkt387
+10.1093/database/bav097
+Zhang, D., Zhu, R., Zhang, H., Zheng, C.-H., & Xia, J. (2015). MGDB: a comprehensive database of genes involved in melanoma. Database, 2015, bav097. doi:10.1093/database/bav097
+10.1016/j.compbiomed.2011.10.001
+Song, X., Cheng, L., Zhou, T., Guo, X., Zhang, X., Chen, Y. P., … Sha, J. (2012). Predicting miRNA-mediated gene silencing mode based on miRNA-target duplex features. Computers in Biology and Medicine, 42(1), 1–7. doi:10.1016/j.compbiomed.2011.10.001
+10.1093/bioinformatics/btv140
+Bhattacharya, A., & Cui, Y. (2015). miR2GO: comparative functional analysis for microRNAs: Fig. 1. Bioinformatics, 31(14), 2403–2405. doi:10.1093/bioinformatics/btv140
+10.1016/J.JTBI.2015.06.042
+Wan, S., Mak, M.-W., & Kung, S.-Y. (2015). mLASSO-Hum: A LASSO-based interpretable human-protein subcellular localization predictor. Journal of Theoretical Biology, 382, 223–234. doi:10.1016/j.jtbi.2015.06.042
+10.1093/nar/gkq329
+Xia, J., & Wishart, D. S. (2010). MSEA: a web-based tool to identify biologically meaningful patterns in quantitative metabolomic data. Nucleic Acids Research, 38(Web Server), W71–W77. doi:10.1093/nar/gkq329
+10.1093/nar/gkx400
+Li, M. J., Yao, H., Huang, D., Liu, H., Liu, Z., Xu, H., … Wang, J. (2017). mTCTScan: a comprehensive platform for annotation and prioritization of mutations affecting drug sensitivity in cancers. Nucleic Acids Research, 45(W1), W215–W221. doi:10.1093/nar/gkx400
+10.1093/nar/gkw247
+Weissensteiner, H., Forer, L., Fuchsberger, C., Schöpf, B., Kloss-Brandstätter, A., Specht, G., … Schönherr, S. (2016). mtDNA-Server: next-generation sequencing data analysis of human mitochondrial DNA in the cloud. Nucleic Acids Research, 44(W1), W64–W69. doi:10.1093/nar/gkw247
+10.1093/bioinformatics/btv443
+Vis, J. K., Vermaat, M., Taschner, P. E. M., Kok, J. N., & Laros, J. F. J. (2015). An efficient algorithm for the extraction of HGVS variant descriptions from sequences. Bioinformatics, btv443. doi:10.1093/bioinformatics/btv443
+10.1093/bioinformatics/btp528
+Li, B., Krishnan, V. G., Mort, M. E., Xin, F., Kamati, K. K., Cooper, D. N., … Radivojac, P. (2009). Automated inference of molecular mechanisms of disease from amino acid substitutions. Bioinformatics, 25(21), 2744–2750. doi:10.1093/bioinformatics/btp528
+10.1093/nar/gky1069
+Sayers, E. W., Agarwala, R., Bolton, E. E., Brister, J. R., Canese, K., Clark, K., … Ostell, J. (2018). Database resources of the National Center for Biotechnology Information. Nucleic Acids Research, 47(D1), D23–D28. doi:10.1093/nar/gky1069
+10.1007/s00251-005-0781-7
+Nielsen, M., Lundegaard, C., Lund, O., & Keşmir, C. (2005). The role of the proteasome in generating cytotoxic T-cell epitopes: insights obtained from improved predictions of proteasomal cleavage. Immunogenetics, 57(1-2), 33–41. doi:10.1007/s00251-005-0781-7
+10.1093/nar/24.17.3439
+Hebsgaard, S. (1996). Splice site prediction in Arabidopsis thaliana pre-mRNA by combining local and global sequence information. Nucleic Acids Research, 24(17), 3439–3452. doi:10.1093/nar/24.17.3439
+10.1007/978-1-62703-721-1_10
+Belcastro, V., & di Bernardo, D. (2013). Reverse Engineering Transcriptional Gene Networks. Methods in Molecular Biology, 179–196. doi:10.1007/978-1-62703-721-1_10
+10.1093/database/bat069
+Krystkowiak, I., Lenart, J., Debski, K., Kuterba, P., Petas, M., Kaminska, B., & Dabrowski, M. (2013). Nencki Genomics Database—Ensembl funcgen enhanced with intersections, user data and genome-wide TFBS motifs. Database, 2013. doi:10.1093/database/bat069
+10.3389/fninf.2013.00007
+Maynard, S. M., Mungall, C. J., Lewis, S. E., Imam, F. T., & Martone, M. E. (2013). A knowledge based approach to matching human neurodegenerative disease and animal models. Frontiers in Neuroinformatics, 7. doi:10.3389/fninf.2013.00007
+10.1095/biolreprod.112.099127
+Hsueh, A. J., & Rauch, R. (2012). Ovarian Kaleidoscope Database: Ten Years and Beyond1. Biology of Reproduction, 86(6). doi:10.1095/biolreprod.112.099127
+10.1093/nar/gki033
+Hamosh, A. (2004). Online Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders. Nucleic Acids Research, 33(Database issue), D514–D517. doi:10.1093/nar/gki033
+10.1093/nar/gkl845
+Su, W.-H., Chao, C.-C., Yeh, S.-H., Chen, D.-S., Chen, P.-J., & Jou, Y.-S. (2007). OncoDB.HCC: an integrated oncogenomic database of hepatocellular carcinoma revealed aberrant cancer target genes and loci. Nucleic Acids Research, 35(Database), D727–D731. doi:10.1093/nar/gkl845
+10.1016/j.jbi.2013.12.013
+Dramé, K., Diallo, G., Delva, F., Dartigues, J. F., Mouillet, E., Salamon, R., & Mougin, F. (2014). Reuse of termino-ontological resources and text corpora for building a multilingual domain ontology: An application to Alzheimer’s disease. Journal of Biomedical Informatics, 48, 171–182. doi:10.1016/j.jbi.2013.12.013
+10.1093/nar/gkw1055
+Koscielny, G., An, P., Carvalho-Silva, D., Cham, J. A., Fumis, L., Gasparyan, R., … Papa, E. (2016). Open Targets: a platform for therapeutic target identification and validation. Nucleic Acids Research, 45(D1), D985–D994. doi:10.1093/nar/gkw1055
+10.1093/bib/bbr024
+Forslund, K., Schreiber, F., Thanintorn, N., & Sonnhammer, E. L. L. (2011). OrthoDisease: tracking disease gene orthologs across 100 species. Briefings in Bioinformatics, 12(5), 463–473. doi:10.1093/bib/bbr024
+10.7717/PEERJ.6778
+Wang, X., Diao, L., Sun, D., Wang, D., Zhu, J., He, Y., … Li, D. (2019). OsteoporosAtlas: a human osteoporosis-related gene database. PeerJ, 7, e6778. doi:10.7717/peerj.6778
+10.1093/nar/gkx948
+Rosikiewicz, W., Suzuki, Y., & Makałowska, I. (2017). OverGeneDB: a database of 5′ end protein coding overlapping genes in human and mouse genomes. Nucleic Acids Research, 46(D1), D186–D193. doi:10.1093/nar/gkx948
+10.1186/1471-2105-8-S1-S20
+Sbisà, E., Catalano, D., Grillo, G., Licciulli, F., Turi, A., Liuni, S., … Gisel, A. (2007). p53FamTaG: a database resource of human p53, p63 and p73 direct target genes combining in silico prediction and microarray data. BMC Bioinformatics, 8(S1). doi:10.1186/1471-2105-8-s1-s20
+10.1186/s12859-015-0554-8
+Limongelli, I., Marini, S., & Bellazzi, R. (2015). PaPI: pseudo amino acid composition to score human protein-coding variants. BMC Bioinformatics, 16(1). doi:10.1186/s12859-015-0554-8
+10.1371/journal.pone.0077302
+Cosentino, S., Voldby Larsen, M., Møller Aarestrup, F., & Lund, O. (2013). PathogenFinder - Distinguishing Friend from Foe Using Bacterial Whole Genome Sequence Data. PLoS ONE, 8(10), e77302. doi:10.1371/journal.pone.0077302
+10.1093/BIOINFORMATICS/BTV597
+Wang, C., Hu, G., Wang, K., Brylinski, M., Xie, L., & Kurgan, L. (2015). PDID: database of molecular-level putative protein–drug interactions in the structural human proteome. Bioinformatics, 32(4), 579–586. doi:10.1093/bioinformatics/btv597
+10.1186/1471-2164-15-S1-S5
+Kundu, K., & Backofen, R. (2014). Cluster based prediction of PDZ-peptide interactions. BMC Genomics, 15(Suppl 1), S5. doi:10.1186/1471-2164-15-s1-s5
+10.1038/srep11435
+Zhao, M., Ma, L., Liu, Y., & Qu, H. (2015). Pedican: an online gene resource for pediatric cancers with literature evidence. Scientific Reports, 5(1). doi:10.1038/srep11435
+10.1093/database/baw070
+Sallou, O., Duek, P. D., Darde, T. A., Collin, O., Lane, L., & Chalmel, F. (2016). PepPSy: a web server to prioritize gene products in experimental and biocuration workflows. Database, 2016, baw070. doi:10.1093/database/baw070
+10.1073/pnas.1201904109
+Ball, M. P., Thakuria, J. V., Zaranek, A. W., Clegg, T., Rosenbaum, A. M., Wu, X., … Church, G. M. (2012). A public resource facilitating clinical use of genomes. Proceedings of the National Academy of Sciences, 109(30), 11920–11927. doi:10.1073/pnas.1201904109
+10.1038/clpt.2012.96
+Whirl-Carrillo, M., McDonagh, E. M., Hebert, J. M., Gong, L., Sangkuhl, K., Thorn, C. F., … Klein, T. E. (2012). Pharmacogenomics Knowledge for Personalized Medicine. Clinical Pharmacology & Therapeutics, 92(4), 414–417. doi:10.1038/clpt.2012.96
+10.1093/nar/gkq472
+Sardana, D., Vasa, S., Vepachedu, N., Chen, J., Gudivada, R. C., Aronow, B. J., & Jegga, A. G. (2010). PhenoHM: human–mouse comparative phenome–genome server. Nucleic Acids Research, 38(suppl_2), W165–W174. doi:10.1093/nar/gkq472
+10.1038/nmeth.3484
+Yang, H., Robinson, P. N., & Wang, K. (2015). Phenolyzer: phenotype-based prioritization of candidate genes for human diseases. Nature Methods, 12(9), 841–843. doi:10.1038/nmeth.3484
+10.1093/bioinformatics/btq311
+Groth, P., Kalev, I., Kirov, I., Traikov, B., Leser, U., & Weiss, B. (2010). Phenoclustering: online mining of cross-species phenotypes. Bioinformatics, 26(15), 1924–1925. doi:10.1093/bioinformatics/btq311
+10.1109/EMBC.2013.6610290
+Ullah, M. Z., Aono, M., & Seddiqui, M. H. (2013). Estimating a ranked list of human hereditary diseases for clinical phenotypes by using weighted bipartite network. 2013 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). doi:10.1109/embc.2013.6610290
+10.1093/bioinformatics/btz469
+Kamat, M. A., Blackshaw, J. A., Young, R., Surendran, P., Burgess, S., Danesh, J., … Staley, J. R. (2019). PhenoScanner V2: an expanded tool for searching human genotype–phenotype associations. Bioinformatics, 35(22), 4851–4853. doi:10.1093/bioinformatics/btz469
+10.1002/humu.22347
+Girdea, M., Dumitriu, S., Fiume, M., Bowdin, S., Boycott, K. M., Chénier, S., … Brudno, M. (2013). PhenoTips: Patient Phenotyping Software for Clinical and Research Use. Human Mutation, 34(8), 1057–1065. doi:10.1002/humu.22347
+10.1186/S12864-015-1820-X
+Chaudhuri, R., Sadrieh, A., Hoffman, N. J., Parker, B. L., Humphrey, S. J., Stöckli, J., … Yang, J. Y. H. (2015). PhosphOrtholog: a web-based tool for cross-species mapping of orthologous protein post-translational modifications. BMC Genomics, 16(1). doi:10.1186/s12864-015-1820-x
+10.1371/journal.pone.0186039
+Gioutlakis, A., Klapa, M. I., & Moschonas, N. K. (2017). PICKLE 2.0: A human protein-protein interaction meta-database employing data integration via genetic information ontology. PLOS ONE, 12(10), e0186039. doi:10.1371/journal.pone.0186039
+10.1093/nar/gkr289
+Nitsch, D., Tranchevent, L.-C., Goncalves, J. P., Vogt, J. K., Madeira, S. C., & Moreau, Y. (2011). PINTA: a web server for network-based gene prioritization from expression data. Nucleic Acids Research, 39(suppl), W334–W338. doi:10.1093/nar/gkr289
+10.1371/JOURNAL.PONE.0166104
+Iwai, S., Weinmaier, T., Schmidt, B. L., Albertson, D. G., Poloso, N. J., Dabbagh, K., & DeSantis, T. Z. (2016). Piphillin: Improved Prediction of Metagenomic Content by Direct Inference from Human Microbiomes. PLOS ONE, 11(11), e0166104. doi:10.1371/journal.pone.0166104
+10.1038/nmeth0410-248
+Adzhubei, I. A., Schmidt, S., Peshkin, L., Ramensky, V. E., Gerasimova, A., Bork, P., … Sunyaev, S. R. (2010). A method and server for predicting damaging missense mutations. Nature Methods, 7(4), 248–249. doi:10.1038/nmeth0410-248
+10.1093/NAR/GKV383
+Liu, Y., Liang, Y., & Wishart, D. (2015). PolySearch2: a significantly improved text-mining system for discovering associations between human diseases, genes, drugs, metabolites, toxins and more. Nucleic Acids Research, 43(W1), W535–W542. doi:10.1093/nar/gkv383
+10.1186/1471-2164-14-918
+Lin, J., Kreisberg, R., Kallio, A., Dudley, A. M., Nykter, M., Shmulevich, I., … Autio, R. (2013). POMO - Plotting Omics analysis results for Multiple Organisms. BMC Genomics, 14(1), 918. doi:10.1186/1471-2164-14-918
+10.1371/journal.pcbi.1004962
+Bendl, J., Musil, M., Štourač, J., Zendulka, J., Damborský, J., & Brezovský, J. (2016). PredictSNP2: A Unified Platform for Accurately Evaluating SNP Effects by Exploiting the Different Characteristics of Variants in Distinct Genomic Regions. PLOS Computational Biology, 12(5), e1004962. doi:10.1371/journal.pcbi.1004962
+10.1093/nar/gkm383
+Tsai, M.-F., Lin, Y.-J., Cheng, Y.-C., Lee, K.-H., Huang, C.-C., Chen, Y.-T., & Yao, A. (2007). PrimerZ: streamlined primer design for promoters, exons and human SNPs. Nucleic Acids Research, 35(Web Server), W63–W65. doi:10.1093/nar/gkm383
+10.1093/nar/gkl297
+Yamada, T., Soma, H., & Morishita, S. (2006). PrimerStation: a highly specific multiplex genomic PCR primer design server for the human genome. Nucleic Acids Research, 34(Web Server), W665–W669. doi:10.1093/nar/gkl297
+10.1093/nar/gkt1108
+Cai, H., Kumar, N., Ai, N., Gupta, S., Rath, P., & Baudis, M. (2013). Progenetix: 12 years of oncogenomic data curation. Nucleic Acids Research, 42(D1), D1055–D1062. doi:10.1093/nar/gkt1108
+10.1038/nature13319
+Wilhelm, M., Schlegl, J., Hahne, H., Gholami, A. M., Lieberenz, M., Savitski, M. M., … Kuster, B. (2014). Mass-spectrometry-based draft of the human proteome. Nature, 509(7502), 582–587. doi:10.1038/nature13319
+10.1007/978-1-4939-9164-8_18
+Nguyen, L., Brun, V., Combes, F., Loux, V., & Vandenbrouck, Y. (2019). Designing an In Silico Strategy to Select Tissue-Leakage Biomarkers Using the Galaxy Framework. Proteomics for Biomarker Discovery, 275–289. doi:10.1007/978-1-4939-9164-8_18
+10.1101/467910
+Richardson, T. G., Harrison, S., Hemani, G., & Smith, G. D. (2018). An atlas of polygenic risk score associations to highlight putative causal relationships across the human phenome. doi:10.1101/467910
+10.1093/DATABASE/BAT001
+Chan, W.-L., Yang, W.-K., Huang, H.-D., & Chang, J.-G. (2013). pseudoMap: an innovative and comprehensive resource for identification of siRNA-mediated mechanisms in human transcribed pseudogenes. Database, 2013(0), bat001–bat001. doi:10.1093/database/bat001
+10.1038/ng0501-21
+Jenssen, T.-K., Lægreid, A., Komorowski, J., & Hovig, E. (2001). A literature network of human genes for high-throughput analysis of gene expression. Nature Genetics, 28(1), 21–28. doi:10.1038/ng0501-21
+10.1213/ane.0b013e3181a27cfb
+Hartmann, M., Özlügedik, S., & Peters, J. (2009). Thiopental Inhibits Lipopolysaccharide-Induced Tissue Factor Expression. Anesthesia & Analgesia, 109(1), 109–113. doi:10.1213/ane.0b013e3181a27cfb
+10.1038/hgv.2016.16
+Fakhro, K. A., Staudt, M. R., Ramstetter, M. D., Robay, A., Malek, J. A., Badii, R., … Rodriguez-Flores, J. L. (2016). The Qatar genome: a population-specific tool for precision medicine in the Middle East. Human Genome Variation, 3(1). doi:10.1038/hgv.2016.16
+10.1093/bioinformatics/bty522
+Li, F., Li, C., Marquez-Lago, T. T., Leier, A., Akutsu, T., Purcell, A. W., … Chou, K.-C. (2018). Quokka: a comprehensive tool for rapid and accurate prediction of kinase family-specific phosphorylation sites in the human proteome. Bioinformatics, 34(24), 4223–4231. doi:10.1093/bioinformatics/bty522
+10.1093/nar/gkq482
+Antonov, A. V., Schmidt, E. E., Dietmann, S., Krestyaninova, M., & Hermjakob, H. (2010). R spider: a network-based analysis of gene lists by combining signaling and metabolic pathways from Reactome and KEGG databases. Nucleic Acids Research, 38(Web Server), W78–W83. doi:10.1093/nar/gkq482
+10.1093/database/bav125
+Regulators of Androgen Action Resource: a one-stop shop for the comprehensive study of androgen receptor action. (2016). Database. doi:10.1093/database/bav125
+10.1016/s0968-0004(00)01606-6
+Bernstein, H. J. (2000). Recent changes to RasMol, recombining the variants. Trends in Biochemical Sciences, 25(9), 453–455. doi:10.1016/s0968-0004(00)01606-6
+10.1371/journal.pone.0082210
+Alam, I., Antunes, A., Kamau, A. A., Ba alawi Wail, Kalkatawi, M., Stingl, U., & Bajic, V. B. (2013). INDIGO – INtegrated Data Warehouse of MIcrobial GenOmes with Examples from the Red Sea Extremophiles. PLoS ONE, 8(12), e82210. doi:10.1371/journal.pone.0082210
+10.1186/s13058-018-0963-5
+Padua, M. B., Bhat-Nakshatri, P., Anjanappa, M., Prasad, M. S., Hao, Y., Rao, X., … Nakshatri, H. (2018). Dependence receptor UNC5A restricts luminal to basal breast cancer plasticity and metastasis. Breast Cancer Research, 20(1). doi:10.1186/s13058-018-0963-5
+10.1038/srep23167
+Zhao, M., Rotgans, B., Wang, T., & Cummins, S. F. (2016). REGene: a literature-based knowledgebase of animal regeneration that bridge tissue regeneration and cancer. Scientific Reports, 6(1). doi:10.1038/srep23167
+10.1101/127241
+Shaw, R. J., & Corpas, M. (2017). A Collection of 2,280 Public Domain (CC0) Curated Human Genotypes. doi:10.1101/127241
+10.1186/gb-2012-13-12-r125
+Wang, P. I., Hwang, S., Kincaid, R. P., Sullivan, C. S., Lee, I., & Marcotte, E. M. (2012). RIDDLE: Reflective diffusion and local extension reveal functional associations for unannotated gene sets via proximity in a gene network. Genome Biology, 13(12), R125. doi:10.1186/gb-2012-13-12-r125
+10.1093/nar/gkq391
+Merelli, I., Guffanti, A., Fabbri, M., Cocito, A., Furia, L., Grazini, U., … McBlane, F. (2010). RSSsite: a reference database and prediction tool for the identification of cryptic Recombination Signal Sequences in human and murine genomes. Nucleic Acids Research, 38(Web Server), W262–W267. doi:10.1093/nar/gkq391
+10.1038/nature08835
+Rasmussen, M., Li, Y., Lindgreen, S., Pedersen, J. S., Albrechtsen, A., Moltke, I., … Gupta, R. (2010). Ancient human genome sequence of an extinct Palaeo-Eskimo. Nature, 463(7282), 757–762. doi:10.1038/nature08835
+10.1186/s12859-017-1806-6
+Han, X., Wang, J., Wang, J., Liu, S., Hu, J., Zhu, H., & Qian, J. (2017). ScaPD: a database for human scaffold proteins. BMC Bioinformatics, 18(S11). doi:10.1186/s12859-017-1806-6
+10.3233/978-1-61499-769-6-182
+10.1371/journal.pone.0128326
+Xu, Y., Hu, B., Alnajm, S. S., Lu, Y., Huang, Y., Allen-Gipson, D., & Cheng, F. (2015). SEGEL: A Web Server for Visualization of Smoking Effects on Human Lung Gene Expression. PLOS ONE, 10(5), e0128326. doi:10.1371/journal.pone.0128326
+10.1093/bioinformatics/btu707
+Lekschas, F., Stachelscheid, H., Seltmann, S., & Kurtz, A. (2014). Semantic Body Browser: graphical exploration of an organism and spatially resolved expression data visualization. Bioinformatics, 31(5), 794–796. doi:10.1093/bioinformatics/btu707
+10.1093/nar/gkw1064
+Kumar, S., Ambrosini, G., & Bucher, P. (2016). SNP2TFBS – a database of regulatory SNPs affecting predicted transcription factor binding site affinity. Nucleic Acids Research, 45(D1), D139–D144. doi:10.1093/nar/gkw1064
+10.1093/bioinformatics/btx583
+Alvarez, R. V., Li, S., Landsman, D., & Ovcharenko, I. (2017). SNPDelScore: combining multiple methods to score deleterious effects of noncoding mutations in the human genome. Bioinformatics, 34(2), 289–291. doi:10.1093/bioinformatics/btx583
+10.1002/humu.21047
+Calabrese, R., Capriotti, E., Fariselli, P., Martelli, P. L., & Casadio, R. (2009). Functional annotations improve the predictive score of human disease-related mutations in proteins. Human Mutation, 30(8), 1237–1244. doi:10.1002/humu.21047
+10.1093/nar/gkq424
+Parikh, J. R., Klinger, B., Xia, Y., Marto, J. A., & Blï¿½thgen, N. (2010). Discovering causal signaling pathways through gene-expression patterns. Nucleic Acids Research, 38(suppl_2), W109–W117. doi:10.1093/nar/gkq424
+10.1371/journal.pone.0031813
+Rojas, A. M., Santamaria, A., Malik, R., Jensen, T. S., Körner, R., Morilla, I., … Ranea, J. A. G. (2012). Uncovering the Molecular Machinery of the Human Spindle—An Integration of Wet and Dry Systems Biology. PLoS ONE, 7(3), e31813. doi:10.1371/journal.pone.0031813
+10.1093/nar/gku455
+Pinto, J. P., Reddy Kalathur, R. K., Machado, R. S. R., Xavier, J. M., Bragança, J., & Futschik, M. E. (2014). StemCellNet: an interactive platform for network-oriented investigations in stem cell biology. Nucleic Acids Research, 42(W1), W154–W160. doi:10.1093/nar/gku455
+10.1093/nar/gkm232
+Uzun, A., Leslin, C. M., Abyzov, A., & Ilyin, V. (2007). Structure SNP (StSNP): a web server for mapping and modeling nsSNPs on protein structures with linkage to metabolic pathways. Nucleic Acids Research, 35(Web Server), W384–W392. doi:10.1093/nar/gkm232
+10.1093/bioinformatics/btu598
+Chen, X., Shi, S.-P., Suo, S.-B., Xu, H.-D., & Qiu, J.-D. (2014). Proteomic analysis and prediction of human phosphorylation sites in subcellular level reveal subcellular specificity. Bioinformatics, 31(2), 194–200. doi:10.1093/bioinformatics/btu598
+10.1093/nar/gkv1247
+Mariethoz, J., Khatib, K., Alocci, D., Campbell, M. P., Karlsson, N. G., Packer, N. H., … Lisacek, F. (2015). SugarBindDB, a resource of glycan-mediated host–pathogen interactions. Nucleic Acids Research, 44(D1), D1243–D1250. doi:10.1093/nar/gkv1247
+10.1073/pnas.1808790115
+Bausch-Fluck, D., Goldmann, U., Müller, S., van Oostrum, M., Müller, M., Schubert, O. T., & Wollscheid, B. (2018). The in silico human surfaceome. Proceedings of the National Academy of Sciences, 115(46), E10988–E10997. doi:10.1073/pnas.1808790115
+10.1093/nar/gkq912
+Burren, O. S., Adlem, E. C., Achuthan, P., Christensen, M., Coulson, R. M. R., & Todd, J. A. (2010). T1DBase: update 2011, organization and presentation of large-scale data sets for type 1 diabetes research. Nucleic Acids Research, 39(Database), D997–D1001. doi:10.1093/nar/gkq912
+10.1186/1471-2164-9-320
+Agrawal, S., Dimitrova, N., Nathan, P., Udayakumar, K., Lakshmi, S. S., Sriram, S., … Sengupta, U. (2008). T2D-Db: An integrated platform to study the molecular basis of Type 2 diabetes. BMC Genomics, 9(1), 320. doi:10.1186/1471-2164-9-320
+10.1007/978-1-4939-3578-9_6
+Wang, Z., Jensen, M. A., & Zenklusen, J. C. (2016). A Practical Guide to The Cancer Genome Atlas (TCGA). Statistical Genomics, 111–141. doi:10.1007/978-1-4939-3578-9_6
+10.1093/nar/gky1095
+Haeussler, M., Zweig, A. S., Tyner, C., Speir, M. L., Rosenbloom, K. R., Raney, B. J., … Kent, W. J. (2018). The UCSC Genome Browser database: 2019 update. Nucleic Acids Research, 47(D1), D853–D858. doi:10.1093/nar/gky1095
+10.1038/nature14962
+(2015). The UK10K project identifies rare variants in health and disease. Nature, 526(7571), 82–90. doi:10.1038/nature14962
+10.1002/humu.22965
+Salgado, D., Desvignes, J.-P., Rai, G., Blanchard, A., Miltgen, M., Pinard, A., … Béroud, C. (2016). UMD-Predictor: A High-Throughput Sequencing Compliant System for Pathogenicity Prediction of any Human cDNA Substitution. Human Mutation, 37(5), 439–446. doi:10.1002/humu.22965
+10.1093/nargab/lqaa005
+10.1101/367359
+Kopanos, C., Tsiolkas, V., Kouris, A., Chapple, C. E., Aguilera, M. A., Meyer, R., & Massouras, A. (2018). VarSome: The Human Genomic Variant Search Engine. doi:10.1101/367359
+10.1111/j.1365-2567.2006.02431.x
+Ohm-Laursen, L., Nielsen, M., Larsen, S. R., & Barington, T. (2006). No evidence for the use of DIR, D?D fusions, chromosome 15 open reading frames or VHreplacement in the peripheral repertoire was found on application of an improved algorithm, JointML, to 6329 human immunoglobulin H rearrangements. Immunology, 119(2), 265–277. doi:10.1111/j.1365-2567.2006.02431.x
+10.1093/nar/gku1117
+Giraldo-Calderón, G. I., Emrich, S. J., MacCallum, R. M., Maslen, G., Dialynas, E., … Topalis, P. (2014). VectorBase: an updated bioinformatics resource for invertebrate vectors and other organisms related with human diseases. Nucleic Acids Research, 43(D1), D707–D713. doi:10.1093/nar/gku1117
+10.1093/nar/gkm987
+Wilming, L. G., Gilbert, J. G. R., Howe, K., Trevanion, S., Hubbard, T., & Harrow, J. L. (2007). The vertebrate genome annotation (Vega) database. Nucleic Acids Research, 36(Database), D753–D760. doi:10.1093/nar/gkm987
+10.1093/bib/6.2.189
+Loveland, J. (2005). VEGA, the genome browser with a difference. Briefings in Bioinformatics, 6(2), 189–193. doi:10.1093/bib/6.2.189
+10.1038/srep31128
+Tabaro, F., Minervini, G., Sundus, F., Quaglia, F., Leonardi, E., Piovesan, D., & Tosatto, S. C. E. (2016). VHLdb: A database of von Hippel-Lindau protein interactors and mutations. Scientific Reports, 6(1). doi:10.1038/srep31128
+10.1093/nar/gky992
+Noronha, A., Modamio, J., Jarosz, Y., Guerard, E., Sompairac, N., Preciat, G., … Thiele, I. (2018). The Virtual Metabolic Human database: integrating human and gut microbiome metabolism with nutrition and disease. Nucleic Acids Research, 47(D1), D614–D624. doi:10.1093/nar/gky992
+10.1093/bioinformatics/btu761
+Matlock, M. K., Hughes, T. B., & Swamidass, S. J. (2014). XenoSite server: a web-available site of metabolism prediction tool. Bioinformatics, 31(7), 1136–1137. doi:10.1093/bioinformatics/btu761
+10.1371/journal.pntd.0004817
+Pylro, V. S., Oliveira, F. S., Morais, D. K., Cuadros-Orellana, S., Pais, F. S.-M., Medeiros, J. D., … Fernandes, G. R. (2016). ZIKV – CDB: A Collaborative Database to Guide Research Linking SncRNAs and ZIKA Virus Disease Symptoms. PLOS Neglected Tropical Diseases, 10(6), e0004817. doi:10.1371/journal.pntd.0004817

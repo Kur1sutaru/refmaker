@@ -1,0 +1,161 @@
+10.3109/03630269809092136
+Hardison, R. C., Chui, D. H. K., Riemer, C. R., Milleg, W., Carver, M. F. H., Molchanova, T. P., … Huisman, T. H. J. (1998). Access to a Syllabus of Human Hemoglobin Variants (1996) Via the World Wide Web. Hemoglobin, 22(2), 113–127. doi:10.3109/03630269809092136
+10.1093/nar/gkx1093
+Pereanu, W., Larsen, E. C., Das, I., Estévez, M. A., Sarkar, A. A., Spring-Pearson, S., … Banerjee-Basu, S. (2017). AutDB: a platform to decode the genetic architecture of autism. Nucleic Acids Research, 46(D1), D1049–D1054. doi:10.1093/nar/gkx1093
+10.1093/database/baw045
+Druce, M., Hulo, C., Masson, P., Sommer, P., Xenarios, I., Le Mercier, P., & De Oliveira, T. (2016). Improving HIV proteome annotation: new features of BioAfrica HIV Proteomics Resource. Database, 2016, baw045. doi:10.1093/database/baw045
+10.1371/journal.pone.0207371
+Fernandes, M., Patel, A., & Husi, H. (2018). C/VDdb: A multi-omics expression profiling database for a knowledge-driven approach in cardiovascular disease (CVD). PLOS ONE, 13(11), e0207371. doi:10.1371/journal.pone.0207371
+10.1093/nar/gkx1153
+Landrum, M. J., Lee, J. M., Benson, M., Brown, G. R., Chao, C., Chitipiralla, S., … Maglott, D. R. (2017). ClinVar: improving access to variant interpretations and supporting evidence. Nucleic Acids Research, 46(D1), D1062–D1067. doi:10.1093/nar/gkx1153
+10.1016/j.jbi.2016.01.004
+Srivastava, I., Gahlot, L. K., Khurana, P., & Hasija, Y. (2016). dbAARD & AGP: A computational pipeline for the prediction of genes associated with age related disorders. Journal of Biomedical Informatics, 60, 153–161. doi:10.1016/j.jbi.2016.01.004
+10.1093/nar/gkq1197
+Ho, M.-R., Tsai, K.-W., Chen, C. -h., & Lin, W. -c. (2010). dbDNV: a resource of duplicated gene nucleotide variants in human genome. Nucleic Acids Research, 39(Database), D920–D925. doi:10.1093/nar/gkq1197
+10.1093/nar/gkw1139
+Wong, K. M., Langlais, K., Tobias, G. S., Fletcher-Hoppe, C., Krasnewich, D., Leeds, H. S., … Sherry, S. T. (2016). The dbGaP data browser: a new tool for browsing dbGaP controlled-access genomic data. Nucleic Acids Research, 45(D1), D819–D826. doi:10.1093/nar/gkw1139
+10.1093/database/baw006
+Uzun, A., Triche, E. W., Schuster, J., Dewan, A. T., & Padbury, J. F. (2016). dbPEC: a comprehensive literature-based database for preeclampsia related genes and phenotypes. Database, 2016, baw006. doi:10.1093/database/baw006
+10.1093/nar/29.1.308
+Sherry, S. T. (2001). dbSNP: the NCBI database of genetic variation. Nucleic Acids Research, 29(1), 308–311. doi:10.1093/nar/29.1.308
+10.1093/database/baw024
+Wu, J., Wu, M., Li, L., Liu, Z., Zeng, W., & Jiang, R. (2016). dbWGFP: a database and web server of human whole-genome single nucleotide variants and their functional predictions. Database, 2016, baw024. doi:10.1093/database/baw024
+10.1093/nar/gkt937
+Bragin, E., Chatzimichali, E. A., Wright, C. F., Hurles, M. E., Firth, H. V., Bevan, A. P., & Swaminathan, G. J. (2013). DECIPHER: database for the interpretation of phenotype-linked plausibly pathogenic sequence and copy-number variation. Nucleic Acids Research, 42(D1), D993–D1000. doi:10.1093/nar/gkt937
+10.1093/nar/gkw865
+Turner, T. N., Yi, Q., Krumm, N., Huddleston, J., Hoekzema, K., F. Stessman, H. A., … Eichler, E. E. (2016). denovo-db: a compendium of humande novovariants. Nucleic Acids Research, 45(D1), D804–D811. doi:10.1093/nar/gkw865
+10.1002/mgg3.358
+Schirmer, I., Dieding, M., Klauke, B., Brodehl, A., Gaertner-Rommel, A., Walhorn, V., … Milting, H. (2017). A novel desmin (DES) indel mutation causes severe atypical cardiomyopathy in combination with atrioventricular block and skeletal myopathy. Molecular Genetics & Genomic Medicine, 6(2), 288–293. doi:10.1002/mgg3.358
+10.1093/nar/gkh605
+Lopez-Bigas, N. (2004). Genome-wide identification of genes likely to be involved in human genetic disease. Nucleic Acids Research, 32(10), 3108–3114. doi:10.1093/nar/gkh605
+10.1093/nar/gkt958
+MacDonald, J. R., Ziman, R., Yuen, R. K. C., Feuk, L., & Scherer, S. W. (2013). The Database of Genomic Variants: a curated collection of structural variation in the human genome. Nucleic Acids Research, 42(D1), D986–D992. doi:10.1093/nar/gkt958
+10.1093/nar/gku843
+Craig, T., Smelick, C., Tacutu, R., Wuttke, D., Wood, S. H., Stanley, H., … de Magalhães, J. P. (2014). The Digital Ageing Atlas: integrating the diversity of age-related changes into a unified resource. Nucleic Acids Research, 43(D1), D873–D878. doi:10.1093/nar/gku843
+10.1186/1471-2105-9-S12-S19
+Yang, J. O., Hwang, S., Oh, J., Bhak, J., & Sohn, T.-K. (2008). An integrated database-pipeline system for studying single nucleotide polymorphisms and diseases. BMC Bioinformatics, 9(Suppl 12), S19. doi:10.1186/1471-2105-9-s12-s19
+10.1093/nar/gkw943
+Piñero, J., Bravo, À., Queralt-Rosinach, N., Gutiérrez-Sacristán, A., Deu-Pons, J., Centeno, E., … Furlong, L. I. (2016). DisGeNET: a comprehensive platform integrating information on human disease-associated genes and variants. Nucleic Acids Research, 45(D1), D833–D839. doi:10.1093/nar/gkw943
+10.1093/bioinformatics/btq447
+Peterson, T. A., Adadey, A., Santana-Cruz, I., Sun, Y., Winder, A., & Kann, M. G. (2010). DMDM: domain mapping of disease mutations. Bioinformatics, 26(19), 2458–2459. doi:10.1093/bioinformatics/btq447
+10.1038/ng.3312
+Lappalainen, I., Almeida-King, J., Kumanduri, V., Senf, A., Spalding, J. D., ur-Rehman, S., … Flicek, P. (2015). The European Genome-phenome Archive of human data consented for biomedical research. Nature Genetics, 47(7), 692–695. doi:10.1038/ng.3312
+10.1007/s004390000408
+Al-Jader, N., Harper, S., Krawczak, M., Palmer, R., Johansen, N., & Cooper, N. (2000). The Frequency of Inherited Disorders Database. Human Genetics, 108(1), 72–74. doi:10.1007/s004390000408
+10.1186/gb-2008-9-12-r170
+Chen, R., Morgan, A. A., Dudley, J., Deshpande, T., Li, L., Kodama, K., … Butte, A. J. (2008). FitSNPs: highly differentially expressed genes are more likely to have variants associated with disease. Genome Biology, 9(12), R170. doi:10.1186/gb-2008-9-12-r170
+10.1093/database/bav036
+Hua, J., Xu, B., Yang, Y., Ban, R., Iqbal, F., Cooke, H. J., … Shi, Q. (2015). Follicle Online: an integrated database of follicle assembly, development and ovulation. Database, 2015(0), bav036–bav036. doi:10.1093/database/bav036
+10.1155/2016/6421039
+Joshi, C., Kolbe, D. L., Mansilla, M. A., Mason, S. O., Smith, R. J. H., & Campbell, C. A. (2016). Reducing the Cost of the Diagnostic Odyssey in Early Onset Epileptic Encephalopathies. BioMed Research International, 2016, 1–8. doi:10.1155/2016/6421039
+10.1186/s12864-015-1973-7
+Corpas, M., Valdivia-Granda, W., Torres, N., Greshake, B., Coletta, A., Knaus, A., … Robinson, P. N. (2015). Crowdsourced direct-to-consumer genomic analysis of a family quartet. BMC Genomics, 16(1). doi:10.1186/s12864-015-1973-7
+10.1093/nar/gkt911
+Giardine, B., Borg, J., Viennas, E., Pavlidis, C., Moradkhani, K., Joly, P., … Patrinos, G. P. (2013). Updates of the HbVar database of human hemoglobin variants and thalassemia mutations. Nucleic Acids Research, 42(D1), D1063–D1069. doi:10.1093/nar/gkt911
+10.1007/s00439-017-1779-6
+Stenson, P. D., Mort, M., Ball, E. V., Evans, K., Hayden, M., Heywood, S., … Cooper, D. N. (2017). The Human Gene Mutation Database: towards a comprehensive repository of inherited mutation data for medical research, genetic diagnosis and next-generation sequencing studies. Human Genetics, 136(6), 665–677. doi:10.1007/s00439-017-1779-6
+10.1093/database/bau112
+Sahajpal, R., Kandoi, G., Dhiman, H., Raj, S., Scaria, V., … Bhartiya, D. (2014). HGV&TB: a comprehensive online resource on human genes and genetic variants associated with tuberculosis. Database, 2014(0), bau112–bau112. doi:10.1093/database/bau112
+10.1093/nar/gky1010
+Huang, Z., Shi, J., Gao, Y., Cui, C., Zhang, S., Li, J., … Cui, Q. (2018). HMDD v3.0: a database for experimentally supported human microRNA–disease associations. Nucleic Acids Research, 47(D1), D1013–D1017. doi:10.1093/nar/gky1010
+10.1093/nar/gkt1026
+Köhler, S., Doelken, S. C., Mungall, C. J., Bauer, S., Firth, H. V., Bailleul-Forestier, I., … Robinson, P. N. (2013). The Human Phenotype Ontology project: linking molecular biology and disease through phenotype data. Nucleic Acids Research, 42(D1), D966–D974. doi:10.1093/nar/gkt1026
+10.1038/nmeth.4378
+A comprehensive map of human protein complexes. (2017). Nature Methods, 14(8), 768–768. doi:10.1038/nmeth.4378
+10.1101/gr.164901
+10.1186/s40246-017-0104-8
+Mahmood, K., Jung, C., Philip, G., Georgeson, P., Chung, J., Pope, B. J., & Park, D. J. (2017). Variant effect prediction tools assessed using independent, functional assay-based datasets: implications for discovery and diagnostics. Human Genomics, 11(1). doi:10.1186/s40246-017-0104-8
+10.1093/nar/gkt1122
+Martínez-Fundichely, A., Casillas, S., Egea, R., Ràmia, M., Barbadilla, A., Pantano, L., … Cáceres, M. (2013). InvFEST, a database integrating information of polymorphic inversions in the human genome. Nucleic Acids Research, 42(D1), D1027–D1032. doi:10.1093/nar/gkt1122
+10.1002/humu.23191
+Hinard, V., Britan, A., Schaeffer, M., Zahn-Zabal, M., Thomet, U., Rougier, J.-S., … Gaudet, P. (2017). Annotation of functional impact of voltage-gated sodium channel mutations. Human Mutation, 38(5), 485–493. doi:10.1002/humu.23191
+10.1021/acs.jproteome.5b00883
+Panwar, B., Menon, R., Eksi, R., Li, H.-D., Omenn, G. S., & Guan, Y. (2016). Genome-Wide Functional Annotation of Human Protein-Coding Splice Variants Using Multiple Instance Learning. Journal of Proteome Research, 15(6), 1747–1753. doi:10.1021/acs.jproteome.5b00883
+10.1371/journal.pone.0103020
+Kountouris, P., Lederer, C. W., Fanis, P., Feleki, X., Old, J., & Kleanthous, M. (2014). IthaGenes: An Interactive Database for Haemoglobin Variations and Epidemiology. PLoS ONE, 9(7), e103020. doi:10.1371/journal.pone.0103020
+10.1093/bioinformatics/btr540
+Glusman, G., Caballero, J., Mauldin, D. E., Hood, L., & Roach, J. C. (2011). Kaviar: an accessible system for testing SNV novelty. Bioinformatics, 27(22), 3216–3217. doi:10.1093/bioinformatics/btr540
+10.1002/humu.21240
+Kawamura, T., Ohtsubo, M., Mitsuyama, S., Ohno-Nakamura, S., Shimizu, N., & Minoshima, S. (2010). KMeyeDB: a graphical database of mutations in genes that cause eye diseases. Human Mutation, 31(6), 667–674. doi:10.1002/humu.21240
+10.1002/humu.9376
+Ianzano, L., Zhang, J., Chan, E. M., Zhao, X.-C., Lohi, H., Scherer, S. W., & Minassian, B. A. (2005). Lafora progressive myoclonus epilepsy mutation database-EPM2A and NHLRC1 (EMP2B) genes. Human Mutation, 26(4), 397–397. doi:10.1002/humu.9376
+10.1016/j.tig.2013.08.003
+Budovsky, A., Craig, T., Wang, J., Tacutu, R., Csordas, A., Lourenço, J., … de Magalhães, J. P. (2013). LongevityMap: a database of human genetic variants associated with longevity. Trends in Genetics, 29(10), 559–560. doi:10.1016/j.tig.2013.08.003
+10.1002/humu.21438
+Fokkema, I. F. A. C., Taschner, P. E. M., Schaafsma, G. C. P., Celli, J., Laros, J. F. J., & den Dunnen, J. T. (2011). LOVD v.2.0: the next generation in gene variant databases. Human Mutation, 32(5), 557–563. doi:10.1002/humu.21438
+10.1186/1471-2164-13-S4-S2
+Vihinen, M. (2012). How to evaluate performance of prediction methods? Measures and their interpretation in variation effect analysis. BMC Genomics, 13(Suppl 4), S2. doi:10.1186/1471-2164-13-s4-s2
+10.1016/j.ajhg.2017.04.010
+Wang, J., Al-Ouran, R., Hu, Y., Kim, S.-Y., Wan, Y.-W., Wangler, M. F., … Mohr, S. E. (2017). MARRVEL: Integration of Human and Model Organism Genetic Resources to Facilitate Functional Annotation of the Human Genome. The American Journal of Human Genetics, 100(6), 843–853. doi:10.1016/j.ajhg.2017.04.010
+10.1186/1471-2164-10-S3-S12
+Lee, Y., Kim, W.-Y., Ji, M., Kim, J., & Bhak, J. (2009). MitoVariome: a variome database of human mitochondrial DNA. BMC Genomics, 10(Suppl 3), S12. doi:10.1186/1471-2164-10-s3-s12
+10.1093/bioinformatics/btv443
+Vis, J. K., Vermaat, M., Taschner, P. E. M., Kok, J. N., & Laros, J. F. J. (2015). An efficient algorithm for the extraction of HGVS variant descriptions from sequences. Bioinformatics, btv443. doi:10.1093/bioinformatics/btv443
+10.1093/bioinformatics/btp528
+Li, B., Krishnan, V. G., Mort, M. E., Xin, F., Kamati, K. K., Cooper, D. N., … Radivojac, P. (2009). Automated inference of molecular mechanisms of disease from amino acid substitutions. Bioinformatics, 25(21), 2744–2750. doi:10.1093/bioinformatics/btp528
+10.1007/s00251-005-0781-7
+Nielsen, M., Lundegaard, C., Lund, O., & Keşmir, C. (2005). The role of the proteasome in generating cytotoxic T-cell epitopes: insights obtained from improved predictions of proteasomal cleavage. Immunogenetics, 57(1-2), 33–41. doi:10.1007/s00251-005-0781-7
+10.1093/database/bav069
+Privitera, A. P., Distefano, R., Wefer, H. A., Ferro, A., Pulvirenti, A., & Giugno, R. (2015). OCDB: a database collecting genes, miRNAs and drugs for obsessive-compulsive disorder. Database, 2015, bav069. doi:10.1093/database/bav069
+10.1093/nar/gky1151
+Amberger, J. S., Bocchini, C. A., Scott, A. F., & Hamosh, A. (2018). OMIM.org: leveraging knowledge across phenotype–gene relationships. Nucleic Acids Research, 47(D1), D1038–D1043. doi:10.1093/nar/gky1151
+10.1039/c3mb70496c
+Zhao, M., Austin, E. D., Hemnes, A. R., Loyd, J. E., & Zhao, Z. (2014). An evidence-based knowledgebase of pulmonary arterial hypertension to identify genes and pathways relevant to pathogenesis. Mol. BioSyst., 10(4), 732–740. doi:10.1039/c3mb70496c
+10.1186/s12859-015-0554-8
+Limongelli, I., Marini, S., & Bellazzi, R. (2015). PaPI: pseudo amino acid composition to score human protein-coding variants. BMC Bioinformatics, 16(1). doi:10.1186/s12859-015-0554-8
+10.1093/nar/30.1.218
+Nelson, P. S. (2002). The human (PEDB) and mouse (mPEDB) Prostate Expression Databases. Nucleic Acids Research, 30(1), 218–220. doi:10.1093/nar/30.1.218
+10.1002/humu.21331
+Wang, J., Ronaghi, M., Chong, S. S., & Lee, C. G. L. (2010). pfSNP: An integrated potentially functional SNP resource that facilitates hypotheses generation through knowledge syntheses. Human Mutation, 32(1), 19–24. doi:10.1002/humu.21331
+10.1038/clpt.2012.96
+Whirl-Carrillo, M., McDonagh, E. M., Hebert, J. M., Gong, L., Sangkuhl, K., Thorn, C. F., … Klein, T. E. (2012). Pharmacogenomics Knowledge for Personalized Medicine. Clinical Pharmacology & Therapeutics, 92(4), 414–417. doi:10.1038/clpt.2012.96
+10.1002/humu.20484
+Giardine, B., Riemer, C., Hefferon, T., Thomas, D., Hsu, F., Zielenski, J., … Hardison, R. C. (2007). PhenCode: connecting ENCODE data with mutations and phenotype. Human Mutation, 28(6), 554–562. doi:10.1002/humu.20484
+10.1186/s13072-016-0074-4
+Portales-Casamar, E., Lussier, A. A., Jones, M. J., MacIsaac, J. L., Edgar, R. D., Mah, S. M., … Kobor, M. S. (2016). DNA methylation signature of human fetal alcohol spectrum disorder. Epigenetics & Chromatin, 9(1). doi:10.1186/s13072-016-0074-4
+10.1186/1472-6947-15-S2-S3
+Alnazzawi, N., Thompson, P., Batista-Navarro, R., & Ananiadou, S. (2015). Using text mining techniques to extract phenotypic information from the PhenoCHF corpus. BMC Medical Informatics and Decision Making, 15(S2). doi:10.1186/1472-6947-15-s2-s3
+10.1002/humu.22769
+Sobreira, N., Schiettecatte, F., Boehm, C., Valle, D., & Hamosh, A. (2015). New Tools for Mendelian Disease Gene Identification: PhenoDB Variant Analysis Module; and GeneMatcher, a Web-Based Tool for Linking Investigators with an Interest in the Same Gene. Human Mutation, 36(4), 425–431. doi:10.1002/humu.22769
+10.1093/database/bat025
+Smedley, D., Oellrich, A., Kohler, S., Ruef, B., Westerfield, M., … Robinson, P. (2013). PhenoDigm: analyzing curated annotations to associate animal models with human diseases. Database, 2013(0), bat025–bat025. doi:10.1093/database/bat025
+10.1093/nar/gkq472
+Sardana, D., Vasa, S., Vepachedu, N., Chen, J., Gudivada, R. C., Aronow, B. J., & Jegga, A. G. (2010). PhenoHM: human–mouse comparative phenome–genome server. Nucleic Acids Research, 38(suppl_2), W165–W174. doi:10.1093/nar/gkq472
+10.1093/bioinformatics/btp618
+Yu, W., Clyne, M., Khoury, M. J., & Gwinn, M. (2009). Phenopedia and Genopedia: disease-centered and gene-centered views of the evolving knowledge of human genetic associations. Bioinformatics, 26(1), 145–146. doi:10.1093/bioinformatics/btp618
+10.1002/humu.22347
+Girdea, M., Dumitriu, S., Fiume, M., Bowdin, S., Boycott, K. M., Chénier, S., … Brudno, M. (2013). PhenoTips: Patient Phenotyping Software for Clinical and Research Use. Human Mutation, 34(8), 1057–1065. doi:10.1002/humu.22347
+10.1093/bioinformatics/btn297
+Yang, C.-Y., Chang, C.-H., Yu, Y.-L., Lin, T.-C. E., Lee, S.-A., Yen, C.-C., … Huang, C.-Y. F. (2008). PhosphoPOINT: a comprehensive human kinase interactome and phospho-protein database. Bioinformatics, 24(16), i14–i20. doi:10.1093/bioinformatics/btn297
+10.1186/S12864-015-1820-X
+Chaudhuri, R., Sadrieh, A., Hoffman, N. J., Parker, B. L., Humphrey, S. J., Stöckli, J., … Yang, J. Y. H. (2015). PhosphOrtholog: a web-based tool for cross-species mapping of orthologous protein post-translational modifications. BMC Genomics, 16(1). doi:10.1186/s12864-015-1820-x
+10.1038/nmeth0410-248
+Adzhubei, I. A., Schmidt, S., Peshkin, L., Ramensky, V. E., Gerasimova, A., Bork, P., … Sunyaev, S. R. (2010). A method and server for predicting damaging missense mutations. Nature Methods, 7(4), 248–249. doi:10.1038/nmeth0410-248
+10.1371/journal.pcbi.1004962
+Bendl, J., Musil, M., Štourač, J., Zendulka, J., Damborský, J., & Brezovský, J. (2016). PredictSNP2: A Unified Platform for Accurately Evaluating SNP Effects by Exploiting the Different Characteristics of Variants in Distinct Genomic Regions. PLOS Computational Biology, 12(5), e1004962. doi:10.1371/journal.pcbi.1004962
+10.1186/1755-8794-8-S2-S7
+Kim, Y., Kang, C., Min, B., & Yi, G.-S. (2015). Detection and analysis of disease-associated single nucleotide polymorphism influencing post-translational modification. BMC Medical Genomics, 8(S2). doi:10.1186/1755-8794-8-s2-s7
+10.1093/nar/gku1139
+Li, P., Liu, Y., Wang, H., He, Y., Wang, X., He, Y., … Yi, Z. (2014). PubAngioGen: a database and knowledge for angiogenesis and related diseases. Nucleic Acids Research, 43(D1), D963–D967. doi:10.1093/nar/gku1139
+10.1093/bioinformatics/bts577
+Smith, R. N., Aleksic, J., Butano, D., Carr, A., Contrino, S., Hu, F., … Micklem, G. (2012). InterMine: a flexible data warehouse system for the integration and analysis of heterogeneous biological data. Bioinformatics, 28(23), 3163–3165. doi:10.1093/bioinformatics/bts577
+10.1093/database/bat073
+Nagai, Y., & Imanishi, T. (2013). RAvariome: a genetic risk variants database for rheumatoid arthritis based on assessment of reproducibility between or within human populations. Database, 2013. doi:10.1093/database/bat073
+10.1093/nar/gkw1064
+Kumar, S., Ambrosini, G., & Bucher, P. (2016). SNP2TFBS – a database of regulatory SNPs affecting predicted transcription factor binding site affinity. Nucleic Acids Research, 45(D1), D139–D144. doi:10.1093/nar/gkw1064
+10.1093/bioinformatics/btx583
+Alvarez, R. V., Li, S., Landsman, D., & Ovcharenko, I. (2017). SNPDelScore: combining multiple methods to score deleterious effects of noncoding mutations in the human genome. Bioinformatics, 34(2), 289–291. doi:10.1093/bioinformatics/btx583
+10.1093/nar/gkr798
+Cariaso, M., & Lennon, G. (2011). SNPedia: a wiki supporting personal genome annotation, interpretation and analysis. Nucleic Acids Research, 40(D1), D1308–D1312. doi:10.1093/nar/gkr798
+10.1093/nar/gkr996
+De Baets, G., Van Durme, J., Reumers, J., Maurer-Stroh, S., Vanhee, P., Dopazo, J., … Rousseau, F. (2011). SNPeffect 4.0: on-line prediction of molecular and structural effects of protein-coding variants. Nucleic Acids Research, 40(D1), D935–D939. doi:10.1093/nar/gkr996
+10.1093/bioinformatics/btr357
+Wong, W. C., Kim, D., Carter, H., Diekhans, M., Ryan, M. C., & Karchin, R. (2011). CHASM and SNVBox: toolkit for detecting biologically important single nucleotide mutations in cancer. Bioinformatics, 27(15), 2147–2148. doi:10.1093/bioinformatics/btr357
+10.1371/journal.pone.0125222
+Wang, S., Li, W., Lian, B., Liu, X., Zhang, Y., Dai, E., … Li, X. (2015). TMREC: A Database of Transcription Factor and MiRNA Regulatory Cascades in Human Diseases. PLOS ONE, 10(5), e0125222. doi:10.1371/journal.pone.0125222
+10.1093/bib/bbw017
+Weirick, T., John, D., & Uchida, S. (2016). Resolving the problem of multiple accessions of the same transcript deposited across various public databases. Briefings in Bioinformatics, bbw017. doi:10.1093/bib/bbw017
+10.1002/humu.22965
+Salgado, D., Desvignes, J.-P., Rai, G., Blanchard, A., Miltgen, M., Pinard, A., … Béroud, C. (2016). UMD-Predictor: A High-Throughput Sequencing Compliant System for Pathogenicity Prediction of any Human cDNA Substitution. Human Mutation, 37(5), 439–446. doi:10.1002/humu.22965
+10.1093/bioinformatics/bty897
+Kopanos, C., Tsiolkas, V., Kouris, A., Chapple, C. E., Albarca Aguilera, M., Meyer, R., & Massouras, A. (2018). VarSome: the human genomic variant search engine. Bioinformatics, 35(11), 1978–1980. doi:10.1093/bioinformatics/bty897
